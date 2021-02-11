@@ -1,2 +1,2 @@
 # sorteio_trabalho_feriado
-Sortear colaboradores que irão trabalhar no feriado
+Sistema de Sorteio simples para colaboradores que irão trabalhar no feriado
